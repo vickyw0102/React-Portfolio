@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link, Route, Routes } from 'react-router-dom';
-// import Contact from './components/Contact/Contact.css';
+import {Link, Route, Routes } from 'react-router-dom';
+// import Contact from './style/Contact.css';
 
 function Contact(props) {
   return (

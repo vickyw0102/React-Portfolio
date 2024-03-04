@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProjectGarllery.css";
+// import "./ProjectGarllery.css";
 
 function ProjectGarllery() {
   return (
