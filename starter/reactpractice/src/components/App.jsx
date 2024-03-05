@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Contact from './pages/Contact';
+import Contact from './pages/Contact.jsx';
 import Home from './pages/Home.jsx';
 import Header from './pages/Header.jsx';
 import Project from './pages/Project.jsx';
-import Navbar from './pages/Navbar.jsx';
+
 
 
 
@@ -13,8 +13,8 @@ function App() {
     <>
       
       <Router>
-       <Navbar/>
-        <h1>My Portfolio</h1>
+       <Header/>
+      
         
       <Routes>
         {/* Define routes using the Route component to render different page components at different paths */}
@@ -24,7 +24,9 @@ function App() {
         {/* Define a route that will have descendant routes */}
         <Route path="Project" element={<Project />} />
       </Routes>
+      
     </Router>
+
   </>
   )
 }

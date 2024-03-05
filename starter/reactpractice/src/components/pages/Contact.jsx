@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link, Route, Routes } from 'react-router-dom';
-// import Contact from './style/Contact.css';
+import '../stylesheet/Contact.css';
 
 function Contact(props) {
   return (
@@ -25,9 +25,9 @@ function Contact(props) {
       <Link to="contact" role="button" className="btn btn-link">
         Learn Less
       </Link>
-      <Routes>
+      {/* <Routes>
         <Route path="learn" element={<Learn />} />
-      </Routes>
+      </Routes> */}
     </div>
   );
 }
