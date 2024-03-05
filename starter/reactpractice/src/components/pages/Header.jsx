@@ -1,10 +1,12 @@
 import React from 'react';
-// import Header from './components/Header/Header.css';
 
 
 function Header() {
   return (
-    <div>
+    
+    <>
+
+  
       <h1>About Me Header</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
@@ -14,7 +16,8 @@ function Header() {
         imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
         in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
       </p>
-    </div>
+    
+  </>
   );
 }
 
