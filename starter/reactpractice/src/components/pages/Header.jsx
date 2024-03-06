@@ -64,12 +64,7 @@ return (
             </nav>
             
         </section>                    
-<<<<<<< HEAD
-       
-=======
-        
->>>>>>> 83c95e7df60920374cdba9b82df34c3ba50cdcda
-        
+
     </>
 );
 }

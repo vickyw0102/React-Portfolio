@@ -1,0 +1,9 @@
+.new-form label,
+.new-form input {
+    display:block;
+    text-align: left;
+    font-size:1.2em;
+    color:black;
+    background: red;
+    width:100%;
+}
