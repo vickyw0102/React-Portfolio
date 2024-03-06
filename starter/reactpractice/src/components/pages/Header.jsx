@@ -1,6 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import '../stylesheet/Header.css';
+import Home from './Home';
+import Project from './Project';
 
 
 
@@ -62,7 +64,11 @@ return (
             </nav>
             
         </section>                    
+<<<<<<< HEAD
        
+=======
+        
+>>>>>>> 83c95e7df60920374cdba9b82df34c3ba50cdcda
         
     </>
 );

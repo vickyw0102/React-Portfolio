@@ -30,6 +30,7 @@ function Project() {
                   <h2 className="display-5 fw-bold text-center">Working Experience in UK & Hong Kong</h2>
               </div>
               
+
           {/* <div className="row workexperience"></div>
             <div className="cardContainer col-lg-4 col-md-4 col-sm-12">
               <div className="card"></div> */}
@@ -38,6 +39,16 @@ function Project() {
               
    
             
+
+          <div className="row workexperience"></div>
+            <div className="cardContainer col-lg-4 col-md-4 col-sm-12">
+              <div className="card"></div>
+              {/* <img src="../images/Workfromhome(1).jpg" className="card-img-top" alt="working experience" style="width:100% height:100%"/> */}
+
+
+
+            </div>
+
           </div>
         </section>
           {/* <!-- Card 1 -->
