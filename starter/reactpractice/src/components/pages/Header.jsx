@@ -1,8 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import '../stylesheet/Header.css';
-import Home from './Home';
-import Project from './Project';
+
+
 
 
 function Header() {
@@ -62,7 +62,7 @@ return (
             </nav>
             
         </section>                    
-        
+       
         
     </>
 );

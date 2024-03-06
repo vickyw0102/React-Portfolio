@@ -1,30 +1,51 @@
 [
     {
         "id": 1,
-        "Project Title": "Project list SpongeBob",
-        "Link to the deployed version": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "GitHub repo": "Fry Cook",
+        "Project Title": "Bootstap Portfolio",
+        "Link to the deployed version": "https://vickyw0102.github.io/Bootstrap-Portfolio/",
+        "GitHub repo": "https://github.com/vickyw0102/Bootstrap-Portfolio",
         "Gif or screenshot": "A Pineapple Under the Sea"
     },
     {
         "id": 2,
-        "Project Title": "Project list SpongeBob",
-        "Link to the deployed version": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "GitHub repo": "Fry Cook",
+        "Project Title": "Password Generator",
+        "Link to the deployed version": "https://vickyw0102.github.io/PasswordGenerator/",
+        "GitHub repo": "https://github.com/vickyw0102/PasswordGenerator.git",
         "Gif or screenshot": "A Pineapple Under the Sea"
     },
     {
         "id": 3,
-        "Project Title": "Project list SpongeBob",
-        "Link to the deployed version": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "GitHub repo": "Fry Cook",
+        "Project Title": "Code Quiz",
+        "Link to the deployed version": "https://vickyw0102.github.io/CodeQuizV2/Links to an external ",
+        "GitHub repo": "https://github.com/vickyw0102/CodeQuizV2",
         "Gif or screenshot": "A Pineapple Under the Sea"
     },
     {
         "id": 4,
-        "Project Title": "Project list SpongeBob",
-        "Link to the deployed version": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "GitHub repo": "Fry Cook",
+        "Project Title": "Work day scheduler",
+        "Link to the deployed version": "https://vickyw0102.github.io/Work-day-schedule-/",
+        "GitHub repo": "https://github.com/vickyw0102/Work-day-schedule-",
+        "Gif or screenshot": "A Pineapple Under the Sea"
+    },
+    {
+        "id": 5,
+        "Project Title": "Weather Dashboard",
+        "Link to the deployed version": "https://vickyw0102.github.io/Wearther-Dashboard-v2/",
+        "GitHub repo": "https://github.com/vickyw0102/Wearther-Dashboard-v2",
+        "Gif or screenshot": "A Pineapple Under the Sea"
+    },
+    {
+        "id": 6,
+        "Project Title": "Project 1 - Screen Tracker",
+        "Link to the deployed version": "https://pradeepdotco.github.io/ScreenTracker/",
+        "GitHub repo": "https://github.com/pradeepdotco/ScreenTracker",
+        "Gif or screenshot": "A Pineapple Under the Sea"
+    },
+    {
+        "id": 7,
+        "Project Title": "ReadMe Generator",
+        "Link to the deployed version": "https://vickyw0102.github.io/Readme-generator/",
+        "GitHub repo": "https://github.com/vickyw0102/Readme-generator",
         "Gif or screenshot": "A Pineapple Under the Sea"
     }
 

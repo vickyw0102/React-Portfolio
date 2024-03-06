@@ -1,51 +1,52 @@
 [
-    {
+  {
       "id": 1,
-      "name": "Gallery SpongeBob",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
-    },
-    {
+      "Project Title": "Bootstap Portfolio 1",
+      "Link to the deployed version": "https://vickyw0102.github.io/Bootstrap-Portfolio/",
+      "GitHub repo": "https://github.com/vickyw0102/Bootstrap-Portfolio",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  },
+  {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
-    },
-    {
+      "Project Title": "Password Generator 1",
+      "Link to the deployed version": "https://vickyw0102.github.io/PasswordGenerator/",
+      "GitHub repo": "https://github.com/vickyw0102/PasswordGenerator.git",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  },
+  {
       "id": 3,
-      "name": "Squidward",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
-    },
-    {
+      "Project Title": "Code Quiz 1",
+      "Link to the deployed version": "https://vickyw0102.github.io/CodeQuizV2/Links to an external ",
+      "GitHub repo": "https://github.com/vickyw0102/CodeQuizV2",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  },
+  {
       "id": 4,
-      "name": "Dexter",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
-    },
-    {
+      "Project Title": "Work day scheduler",
+      "Link to the deployed version": "https://vickyw0102.github.io/Work-day-schedule-/",
+      "GitHub repo": "https://github.com/vickyw0102/Work-day-schedule-",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  },
+  {
       "id": 5,
-      "name": "Courage",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
-    },
-    {
+      "Project Title": "Weather Dashboard",
+      "Link to the deployed version": "https://vickyw0102.github.io/Wearther-Dashboard-v2/",
+      "GitHub repo": "https://github.com/vickyw0102/Wearther-Dashboard-v2",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  },
+  {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "occupation": "Student",
-      "location": "Bluffington"
-    },
-    {
+      "Project Title": "Project 1 - Screen Tracker",
+      "Link to the deployed version": "https://pradeepdotco.github.io/ScreenTracker/",
+      "GitHub repo": "https://github.com/pradeepdotco/ScreenTracker",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  },
+  {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
-    }
+      "Project Title": "ReadMe Generator",
+      "Link to the deployed version": "https://vickyw0102.github.io/Readme-generator/",
+      "GitHub repo": "https://github.com/vickyw0102/Readme-generator",
+      "Gif or screenshot": "A Pineapple Under the Sea"
+  }
+
 ]
