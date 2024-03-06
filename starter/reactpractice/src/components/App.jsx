@@ -4,6 +4,7 @@ import Contact from './pages/Contact.jsx';
 import Home from './pages/Home.jsx';
 import Header from './pages/Header.jsx';
 import Project from './pages/Project.jsx';
+import Footer from './pages/Footer.jsx';
 
 
 
@@ -13,6 +14,7 @@ function App() {
     <>
       
       <Router>
+       {/* <section className="Header">  */}
        <Header/>
       
         
@@ -23,8 +25,10 @@ function App() {
         <Route path="Contact" element={<Contact />} />
         {/* Define a route that will have descendant routes */}
         <Route path="Project" element={<Project />} />
+      
       </Routes>
       
+      <Footer/>
     </Router>
 
   </>
