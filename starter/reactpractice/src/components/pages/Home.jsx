@@ -1,5 +1,6 @@
 import React from 'react';
 import '../stylesheet/Home.css';
+import Cards from "./Cards"
 // import Home from './components/Home/Home.css';
 
 
@@ -22,6 +23,7 @@ function Home() {
 
                       <p className="col-md-12 fs-2 text-left"> Coming 1 from HK and live in UK for 3 years</p>
                   </div>
+                  <Cards/>
               </div>
            
             {/* <h1>About Me Home </h1>
