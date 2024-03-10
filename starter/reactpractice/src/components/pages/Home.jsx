@@ -1,6 +1,6 @@
 import React from 'react';
 import '../stylesheet/Home.css';
-import Cards from "./Cards"
+import About from "./About"
 // import Home from './components/Home/Home.css';
 
 
@@ -20,7 +20,7 @@ function Home() {
         </div>
 
        </div>
-      
+      <About/>
     </>
   );
 }

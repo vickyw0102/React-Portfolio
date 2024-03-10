@@ -1,0 +1,52 @@
+.AboutMe h1 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+
+}
+.AboutMe h2{
+    color: black;
+
+}
+
+.AboutMe p {
+    color: black;
+    font-size: 30px;
+}
+
+#categoryGrid {
+    margin: 0px 5%;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+    "PersonalProfile Employement Myphoto"
+    
+    ;
+  }
+.categoryGridArea {
+    border-left:orange dotted 5px;
+    
+    padding: 20px;
+
+}
+
+.PersonalProfile {
+    grid-area: PersonalProfile;
+    
+  }
+  .Employement{
+    grid-area: Employement;
+   
+  }
+  .Myphoto{
+    grid-area: Myphoto;
+    
+  }
+
+.Myphoto img{
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 50px;
+}
+  

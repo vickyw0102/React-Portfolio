@@ -8,7 +8,15 @@ function Contact() {
 
   return (
     <>
-      <div>
+      <div className='contacthero'>
+
+        <div class="p-5 mb-4 bg-body-tertiary rounded-3 Background">
+         <div class="container-fluid py-5 jumboCopy">
+          <h1 class="display-5 fw-bold">Hi, I'm Vicky Wong</h1>
+          <p class="col-md-12 fs-4">Front-end Website developer</p>
+          </div>
+        </div>
+        
         <h1>Contact Page1</h1>
         <p>
           Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
