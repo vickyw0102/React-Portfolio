@@ -3,9 +3,25 @@
     display:block;
     text-align: left;
     font-size:1.2em;
-    color:grey;
-    background: rgb(242, 239, 239);
+    color: #030b63;
+    background-color:transparent;
+    padding-bottom:5px;
     
+    
+}
+.new-form button{
+    background-color: #e9760b ;
+    border-radius: 5px;
+    border:none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+
 }
 
 .contacthero {
@@ -13,7 +29,6 @@
     background-size: cover;
     width:100%;
     min-height: 80%;
-    position:center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,5 +36,5 @@
     padding-top: 5px;
     padding-bottom:5px;
     border-bottom:  #030b63 solid 3px;
-    margin:0px;
+    margin:10px;
 }
