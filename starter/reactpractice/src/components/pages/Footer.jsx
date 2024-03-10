@@ -9,9 +9,9 @@ function Footer() {
                     <div className="footer">
                     
                         <div className="sectionHeading">
-                            <h5 className="display-6 text-center">Contact Information</h5>
+                            <h5 className="display-2 text-center">Contact Information</h5>
                         </div>
-                        <div className="container">
+                        <div className="info container">
                             <div className="row">
                                 <div className="col-md-4 text-left">
                                     <h4>📞 Phone: (+44) 077xx xxxxxx</h4>

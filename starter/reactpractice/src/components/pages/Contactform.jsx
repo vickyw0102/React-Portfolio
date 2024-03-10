@@ -22,6 +22,10 @@ return(
           <span>Email</span>
           <input type="text" />
         </label>
+        <label>
+          <span>Leave me messages</span>
+          <input type="text" />
+        </label>
           <button>
           Submit
           </button>

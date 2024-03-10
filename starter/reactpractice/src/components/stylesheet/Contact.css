@@ -3,12 +3,18 @@
     display:block;
     text-align: left;
     font-size:1.2em;
-    color: #030b63;
+    color:#e9760b ;
     background-color:transparent;
     padding-bottom:5px;
-    
-    
+    border-radius: 5px;  
+     
 }
+
+
+.new-form >input > a:hover{
+    color: #e9760b ;
+}
+
 .new-form button{
     background-color: #e9760b ;
     border-radius: 5px;
@@ -22,6 +28,14 @@
     margin: 4px 2px;
     cursor: pointer;
 
+}
+.new-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom:15px;
+    padding-top:10px;
 }
 
 .contacthero {
