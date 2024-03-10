@@ -10,61 +10,39 @@ import Project from './Project';
 function Header() {
 return (
     <>
-        <section> 
-            <nav className="navbar navbar-expand-lg     cbg-body-tertiary CustomNav">
-                <div className="container-fluid">
+        <nav className="navbar navbar-expand-lg bg-body-tertiary customNav">
+            <div className="container-fluid">
+                <div className="navbar-brand "><img src="../images/logo4.png" /> Vicky's Portfolio
 
-                        <ul className="nav nav-tabs">
+            <div className="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 
-                            <li className="nav-item">
-                                <NavLink
-                                to="/"
-                                end
-                                className={({ isActive }) =>
-                                    isActive ? 'nav-link active' : 'nav-link'
-                                }
-                                >
-                                Home
-                                </NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink
-                                to="Contact"
-                                className={({ isActive }) =>
-                                    isActive ? 'nav-link active' : 'nav-link'
-                                }
-                                >
-                                Contact
-                                </NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink
-                                to="Project"
-                                className={({ isActive }) =>
-                                    isActive ? 'nav-link active' : 'nav-link'
-                                }
-                                >
-                                Project
-                                </NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink
-                                to="Resume"
-                                end
-                                className={({ isActive }) =>
-                                    isActive ? 'nav-link active' : 'nav-link'
-                                }
-                                >
-                                Resume
-                                </NavLink>
-                            </li>
-                        </ul>
-                        
+                    <li className="nav-item">
+                        <NavLink to="/"end>
+                        Home
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
+                        <NavLink to="Contact"end>
+                        Contact
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
+                        <NavLink to="Project"end>
+                        Project List
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
+                        <NavLink to="Resume"end>
+                        Resume
+                        </NavLink>
+                    </li>
+                </ul>
+            </div>
                 </div>
-            </nav>
-            
-        </section>                    
-
+            </div>   
+                
+        </nav>
     </>
 );
 }

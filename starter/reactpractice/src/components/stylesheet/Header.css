@@ -1,34 +1,55 @@
-.nav-tabs {
-    background-color: Black;
-    Color: white;
-    border-bottom: 1px solid #dee2e6;
-    margin: 0px;
-    height: 100%;
-    font-size: 20px;
-    display:flex;
+
+.CustomNav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #9c3a06;
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:grey solid 5px;
+
+} 
+.navbar-brand{
+    color: #e9760b ;
+    font-weight: 200;
+    text-decoration: none;
+    font-size:30px;
+    
+}
+.navbar-brand img {
+    
+    margin-left: 20px;
+  }
+.navbar-nav {   
+    display: flex;
     justify-content: end;
     align-items: center;
+    margin: 20px;
+    border-bottom: #030b63 solid 5px;
 }
-
-.nav-item {
-    color:aliceblue;
-    margin-top: 30px;
-    display:inline;
-    justify-content: space-around;
-   
-    padding-left: 50px;
-    margin-bottom: 10px;
-    padding-right: 50px;
-
-}
-
-/* .navbar-brand {
-    color:aliceblue;
-    background-color: aliceblue;
-} */
-
-/* .nav-tabs .Logo {
+    
+.navbar-nav .nav-item {
+    color: #f5320f;
+    font-weight: 200;
+    text-decoration: none;
+    font-size:50px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+    justify-content: end;
+    align-items:space-between;
+    padding-right:20px;
+    
+}
+
+.nav-item a {
+    color: #030b63;
+    font-weight: 200;
+    text-decoration: none;
+    font-size:20px;
+ 
+}
+
+.navbar-nav > li > a:hover {
+    color: #f5320f !important;
+    background-color: transparent;
+    }
+
