@@ -31,9 +31,9 @@
   }
 
   .jumboCopy button {
-    background-color: #e9760b ;
-    border-radius: 5px;
-    border:none;
+    background-color: transparent ;
+    border-radius: 10px;
+    border:white solid 1px;
     color: white;
     padding: 5px 10px;
     text-align: center;
@@ -43,6 +43,10 @@
     margin: 4px 2px;
     cursor: pointer;
 
+  }
+  .jumboCopy button:hover{
+  background-color: #e9760b;
+  border-color:#e9760b ;
   }
 /* .personal-img {
     display: flex;

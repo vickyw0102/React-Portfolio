@@ -16,7 +16,7 @@
   {
       "id": 3,
       "Project Title": "Code Quiz 1",
-      "Link to the deployed version": "https://vickyw0102.github.io/CodeQuizV2/Links to an external ",
+      "Link to the deployed version": "https://vickyw0102.github.io/CodeQuizV2/",
       "GitHub repo": "https://github.com/vickyw0102/CodeQuizV2",
       "Gif or screenshot": "A Pineapple Under the Sea"
   },
@@ -41,12 +41,6 @@
       "GitHub repo": "https://github.com/pradeepdotco/ScreenTracker",
       "Gif or screenshot": "A Pineapple Under the Sea"
   },
-  {
-      "id": 7,
-      "Project Title": "ReadMe Generator",
-      "Link to the deployed version": "https://vickyw0102.github.io/Readme-generator/",
-      "GitHub repo": "https://github.com/vickyw0102/Readme-generator",
-      "Gif or screenshot": "A Pineapple Under the Sea"
-  }
+
 
 ]

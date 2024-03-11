@@ -11,8 +11,9 @@
 }
 
 
-.new-form >input > a:hover{
+.new-form input:hover{
     color: #e9760b ;
+    border-color:#e9760b;
 }
 
 .new-form button{
