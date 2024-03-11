@@ -5,7 +5,7 @@ function FriendCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={ props.Title } src={ props.Gif } />
+        <img alt={ props.Title } src={ props.Pic} />
       </div>
       <div className="content">
         <ul>
@@ -13,10 +13,10 @@ function FriendCard(props) {
             <strong>Title:</strong> { props.Title }
           </li>
           <li>
-            <strong>Website:</strong> { props.Website }
+            <strong>Website:</strong> <a href={ props.Website }>{ props.Website }</a>
           </li>
           <li>
-            <strong>GitHub Repo:</strong> { props.GitHubRepo }
+            <strong>GitHub Repo:</strong> <a href={ props.GitHubRepo }>{props.GitHubRepo}</a>
           </li>
         </ul>
       </div>

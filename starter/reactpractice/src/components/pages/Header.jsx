@@ -22,14 +22,15 @@ return (
                         Home
                         </NavLink>
                     </li>
-                    <li className="nav-item">
-                        <NavLink to="Contact"end>
-                        Contact
-                        </NavLink>
-                    </li>
+
                     <li className="nav-item">
                         <NavLink to="Project"end>
                         Project List
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
+                        <NavLink to="Contact"end>
+                        Contact
                         </NavLink>
                     </li>
                     <li className="nav-item">

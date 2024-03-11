@@ -1,15 +1,18 @@
 .projectList {
-    background-image: url(../images/Hong-kong-view.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),linear-gradient(180deg,transparent 14%,rgba(0,0,0,.3) 49%,rgba(0,0,0,.3) 85%,transparent), url(../images/coding.jpg);
     background-size: cover;
     width:100%;
-    min-height: 80%;
-    position:center;
-    display: flex;
+    min-height: 70%;
+    margin: 0px;
+    padding-top: 5px;
+    border-bottom:  #030b63 solid 3px;
+
+}
+/* .HomeBackground h1,p{
+    font-size:50px;
+    display:flex;
     justify-content: center;
     align-items: center;
-    margin: auto;
-    padding-top: 5px;
-    padding-bottom:5px;
-    border-bottom:  #030b63 solid 3px;
-    margin:0px;
-}
+    padding-top:50px;
+} */
+

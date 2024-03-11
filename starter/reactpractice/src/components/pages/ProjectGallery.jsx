@@ -7,7 +7,7 @@ function ProjectGarllery() {
       <div className="img-container">
         <img
           alt="Gallery"
-          src="https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+          src="../images/Projects/Bootstrap-Portfolio_1.jpg"
         />
       </div>
       <div className="content">

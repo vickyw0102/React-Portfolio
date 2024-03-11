@@ -4,49 +4,43 @@
         "Title": "Bootstap Portfolio",
         "Website": "https://vickyw0102.github.io/Bootstrap-Portfolio/",
         "GitHubRepo": "https://github.com/vickyw0102/Bootstrap-Portfolio",
-        "Gif":       "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+        "Pic":       "../images/Projects/Bootstrap-Portfolio_1.jpg"
     },
     {
         "id": 2,
         "Title": "Password Generator",
         "Website": "https://vickyw0102.github.io/PasswordGenerator/",
         "GitHubRepo": "https://github.com/vickyw0102/PasswordGenerator.git",
-        "Gif":       "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+        "Pic":       "../images/Projects/Password-Generator_1.jpg"
     },
     {
         "id": 3,
         "Title": "Code Quiz",
-        "Website": "https://vickyw0102.github.io/CodeQuizV2/Links to an external ",
+        "Website": "https://vickyw0102.github.io/CodeQuizV2/ ",
         "GitHubRepo": "https://github.com/vickyw0102/CodeQuizV2",
-        "Gif":       "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+        "Pic":       "../images/Projects/CodeQuiz_1.jpg"
     },
     {
         "id": 4,
         "Title": "Work day scheduler",
         "Website": "https://vickyw0102.github.io/Work-day-schedule-/",
         "GitHubRepo": "https://github.com/vickyw0102/Work-day-schedule-",
-        "Gif": "A Pineapple Under the Sea"
+        "Pic": "../images/Projects/WorkDayScheduler_1.jpg"
     },
     {
         "id": 5,
         "Title": "Weather Dashboard",
         "Website": "https://vickyw0102.github.io/Wearther-Dashboard-v2/",
         "GitHubRepo": "https://github.com/vickyw0102/Wearther-Dashboard-v2",
-        "Gif": "A Pineapple Under the Sea"
+        "Pic": "../images/Projects/weather-Dashboard_1.jpg"
     },
     {
         "id": 6,
         "Title": "Project 1 - Screen Tracker",
         "Website": "https://pradeepdotco.github.io/ScreenTracker/",
         "GitHubRepo": "https://github.com/pradeepdotco/ScreenTracker",
-        "Gif": "A Pineapple Under the Sea"
-    },
-    {
-        "id": 7,
-        "Title": "ReadMe Generator",
-        "Website": "https://vickyw0102.github.io/Readme-generator/",
-        "GitHubRepo": "https://github.com/vickyw0102/Readme-generator",
-        "Gif": "A Pineapple Under the Sea"
+        "Pic": "../images/Projects/ScreenTracker_1.jpg"
     }
+
 
 ]

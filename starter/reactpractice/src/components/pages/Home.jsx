@@ -9,13 +9,13 @@ function Home() {
     <>
       <div className='hero'>
 
-        <div class="p-5 mb-4 bg-body-tertiary rounded-3 Background">
-          <div class="container-fluid py-5 jumboCopy">
-            <h1 class="display-5 fw-bold">Hi, I'm Vicky Wong</h1>
-            <p class="col-md-12 fs-4">Front-end Website developer</p>
+        <div className="p-5 mb-4 bg-body-tertiary rounded-3 Background">
+          <div className="container-fluid py-5 jumboCopy">
+            <h1 className="display-5 fw-bold">Hi, I'm Vicky Wong</h1>
+            <p className="col-md-12 fs-4">Front-end Website developer</p>
             
             
-            <button class="btn btn primary btn-lg" type="button">View My Resume</button>
+            <button className="btn btn-primary btn-lg" type="button" onClick={() => window.location.href = 'https://drive.google.com/file/d/19VcWvtfdFBtIrF8djZLbitXKGeBcQtzw/view?usp=drive_link'}>View My Resume</button>
           </div>
         </div>
 
