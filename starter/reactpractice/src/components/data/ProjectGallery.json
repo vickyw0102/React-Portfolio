@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "Title": "Bootstap Portfolio",
+        "Website": "https://vickyw0102.github.io/Bootstrap-Portfolio/",
+        "GitHubRepo": "https://github.com/vickyw0102/Bootstrap-Portfolio",
+        "Pic":       "../images/Projects/Bootstrap-Portfolio_1.jpg"
+    },
+    {
+        "id": 2,
+        "Title": "Password Generator",
+        "Website": "https://vickyw0102.github.io/PasswordGenerator/",
+        "GitHubRepo": "https://github.com/vickyw0102/PasswordGenerator.git",
+        "Pic":       "../images/Projects/Password-Generator_1.jpg"
+    },
+    {
+        "id": 3,
+        "Title": "Code Quiz",
+        "Website": "https://vickyw0102.github.io/CodeQuizV2/ ",
+        "GitHubRepo": "https://github.com/vickyw0102/CodeQuizV2",
+        "Pic":       "../images/Projects/CodeQuiz_1.jpg"
+    },
+    {
+        "id": 4,
+        "Title": "Work day scheduler",
+        "Website": "https://vickyw0102.github.io/Work-day-schedule-/",
+        "GitHubRepo": "https://github.com/vickyw0102/Work-day-schedule-",
+        "Pic": "../images/Projects/WorkDayScheduler_1.jpg"
+    },
+    {
+        "id": 5,
+        "Title": "Weather Dashboard",
+        "Website": "https://vickyw0102.github.io/Wearther-Dashboard-v2/",
+        "GitHubRepo": "https://github.com/vickyw0102/Wearther-Dashboard-v2",
+        "Pic": "../images/Projects/weather-Dashboard_1.jpg"
+    },
+    {
+        "id": 6,
+        "Title": "Project 1 - Screen Tracker",
+        "Website": "https://pradeepdotco.github.io/ScreenTracker/",
+        "GitHubRepo": "https://github.com/pradeepdotco/ScreenTracker",
+        "Pic": "../images/Projects/ScreenTracker_1.jpg"
+    }
+
+
+]

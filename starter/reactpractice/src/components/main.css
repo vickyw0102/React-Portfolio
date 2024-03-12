@@ -1,6 +1,6 @@
 * {
     /* box-sizing: border-box; */
-    font-family: sans-serif;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
     html, body, #root {
@@ -9,10 +9,10 @@
     height: 100%;
 }
 h1{
-    color: white;
+    color: rgb(30, 28, 28);
     font-size: 50px;
 }
 h2,p{
-    color: white;
+    color: rgb(41, 40, 40);
     font-size: 30px;
 }

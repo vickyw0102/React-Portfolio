@@ -1,55 +1,36 @@
-.AboutMe h1 {
-    color: black;
-    font-size: 30px;
-    text-align: center;
-
-}
-.AboutMe h2{
-    color: black;
-
+#Aboutme{
+  background: #53a8b6; 
+  width:100%; 
+  text-align: center;
+  padding:50px;
+  border-bottom: #f3f2f5 solid 8px;
 }
 
-.AboutMe p {
-    color: black;
-    font-size: 30px;
-}
-
-#categoryGrid {
-    margin: 0px 5%;
-    display: grid;
-    align-items: center;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-areas:
-    "PersonalProfile Employement Myphoto"
-    
-    ;
-  }
-.categoryGridArea {
-    border-left:orange dotted 5px;
-    
-    padding: 20px;
-
-}
-
-.PersonalProfile {
-    grid-area: PersonalProfile;
-    
-  }
-  .Employement{
-    grid-area: Employement;
-   
-  }
-  .Myphoto{
-    grid-area: Myphoto;
-    
-  }
-
-.Myphoto img{
-    max-height: 300px;
-    max-width: 350px;
-    border-radius: 50px;
-    display:flex;
-    align-items: center;
-    justify-content: center;
-}
+.Vickypic img{
   
+  width:300px;
+  height:400px;
+  border-radius: 30px;
+}
+.Aboutmetext h3{
+  color: white;
+  font-size: 30px;
+  text-align: left;
+}
+
+.Aboutmetext h4{
+  color: white;
+  font-size: 20px;
+  text-align: left;
+}
+
+.Aboutmetext h4>a {
+  background-color: #0b1ae9 ;
+  border-radius: 10px;
+  border:none;
+  font-size: 30px;
+  color: white;
+  text-align: left;
+  text-decoration: none;
+  
+}

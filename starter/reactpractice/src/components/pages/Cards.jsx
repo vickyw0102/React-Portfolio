@@ -1,11 +1,11 @@
 import React from "react";
 import "../stylesheet/Cards.css";
 
-function FriendCard(props) {
+function ProjectCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={ props.Title } src={ props.Pic} />
+        <img className="img" alt={ props.Title } src={ props.Pic} />
       </div>
       <div className="content">
         <ul>
@@ -13,10 +13,13 @@ function FriendCard(props) {
             <strong>Title:</strong> { props.Title }
           </li>
           <li>
-            <strong>Website:</strong> <a href={ props.Website }>{ props.Website }</a>
+            <a href={ props.Website }><strong>Website</strong> </a>
           </li>
           <li>
-            <strong>GitHub Repo:</strong> <a href={ props.GitHubRepo }>{props.GitHubRepo}</a>
+              <a href={ props.GitHubRepo }><strong>GitHub Repo</strong></a>
+          </li>
+          <li>
+              <a href={ props.Pic }><strong>Screenshot</strong></a>
           </li>
         </ul>
       </div>
@@ -24,4 +27,4 @@ function FriendCard(props) {
   );
 }
 
-export default FriendCard;
+export default ProjectCard;

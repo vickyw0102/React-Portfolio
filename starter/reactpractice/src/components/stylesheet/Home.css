@@ -1,46 +1,37 @@
 
 /* Jumbotron  */
-.hero {
+.hero .Background {
     background-image: url(../images/Hong-kong-view.jpg);
     background-size: cover;
+    height: 700px;
     width:100%;
-    min-height: 80%;
-    position:center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    padding-top: 5px;
-    padding-bottom:5px;
-    border-bottom:  #030b63 solid 3px;
-    margin:0px;
+    padding:5px;
+}
+.jumboCopy{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
 }
 
+.jumboCopy h1{
+  color:white;
+  margin-bottom:10px;
 
-.hero .header-content {
-    max-width: 500px;
-  
-    text-align: center;
-    
-  }
-  
-.header-content h1 p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+}
 
+.jumboCopy p{
+  color:white;
+  margin-bottom:20px;
+
+}
   .jumboCopy button {
     background-color: transparent ;
     border-radius: 10px;
     border:white solid 1px;
     color: white;
     padding: 5px 10px;
-    text-align: center;
-    justify-content: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
+    text-align:center;
+    font-size: 30px;
     margin: 4px 2px;
     cursor: pointer;
 
@@ -49,20 +40,4 @@
   background-color: #e9760b;
   border-color:#e9760b ;
   }
-/* .personal-img {
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    margin-right:300px;
-    
-    
-}
-.personal-img img{
-    max-width: 400px;
-    max-height: 450px;
-    border-radius: 50%;
-    display:flex;
-    justify-items: end;
-    align-items: end;
-   
-} */
+ 
