@@ -14,7 +14,7 @@ function Project() {
           <div class="p-5 mb-4 bg-body-tertiary rounded-3 HomeBackground">
           <div class="container-fluid py-5 HomejumboCopy">
             <h1 class="display-5 fw-bold ">My Projects </h1>
-            <p class="col-md-12 fs-4">Front-end Websites</p>
+            
 
           </div>
 
