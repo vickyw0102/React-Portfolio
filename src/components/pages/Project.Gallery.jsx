@@ -11,9 +11,9 @@ function Project() {
       
         <div className="ProjectGallery">
           
-          <div class="p-5 mb-4 bg-body-tertiary rounded-3 HomeBackground">
-          <div class="container-fluid py-5 HomejumboCopy">
-            <h1 class="display-5 fw-bold ">My Projects </h1>
+          <div className="p-5 mb-4 bg-body-tertiary rounded-3 HomeBackground">
+          <div className="py-5 HomejumboCopy">
+            <h1 className="display-5 fw-bold ">My Projects </h1>
             
 
           </div>

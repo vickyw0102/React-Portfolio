@@ -9,7 +9,7 @@ function Home() {
     <>
       <div className='hero'>
 
-        <div className="p-5 mb-4 bg-body-tertiary rounded-3 Background">
+        <div className="Background">
           <div className="container-fluid py-5 jumboCopy">
             <h1 className="display-2 fw-bold">Hi, I'm Vicky. </h1>
             <p >Front-End Website Developer </p>
