@@ -12,7 +12,7 @@ function About() {
                 <div className="sectionHeading">
                     <h2 className="display-5 fw-bold">About Me</h2>
                     <p>
-                        I have moved to UK for around 3 years with my family. I am in the sales fields especially on Online Payment Gateway, Banking and Telecom industries over 20 years.
+                        I have moved to UK for around 3 years with my family. I am in the sales fields especially on Online Payment Gateway, Banking and Telecom industries over 20 years in Hong Kong.
                             </p>
                 </div>
                 <br></br>
