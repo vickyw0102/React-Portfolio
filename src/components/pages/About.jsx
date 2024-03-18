@@ -1,6 +1,7 @@
 import React from 'react';
 import '../stylesheet/About.css';
 import Cards from "./Cards"
+import vickypic from '../../../public/images/Vickypic2.jpeg';
 
 
 
@@ -19,7 +20,7 @@ function About() {
                 <div className="Container">
                     <div className="row profilepic">
                         <div className="col-lg-4 col-md-4 col-sm-12 Vickypic">
-                            <img src="../images/Vickypic2.jpeg" /> 
+                            <img src={vickypic} /> 
                         </div>
 
                         <div className="col-lg-8 col-md-8 col-sm-12 Aboutmetext">

@@ -4,7 +4,7 @@
         "Title": "Bootstap Portfolio",
         "Website": "https://vickyw0102.github.io/Bootstrap-Portfolio/",
         "GitHubRepo": "https://github.com/vickyw0102/Bootstrap-Portfolio",
-        "Pic":       "../images/Projects/Bootstrap-Portfolio_1.jpg"
+        "Pic":       "bootstrapPortfolio"
     },
     {
         "id": 2,

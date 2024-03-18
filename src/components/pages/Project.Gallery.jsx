@@ -3,6 +3,7 @@ import '../stylesheet/Project.css';
 import Wrapper from "./Wrapper";
 import Cards from "./Cards"
 import ProjectGallery from "../data/ProjectGallery.json"
+import bootstrapPortfolio from "../../../public/images/Projects/Bootstrap-Portfolio_1.jpg";
 
 
 function Project() {
@@ -30,7 +31,7 @@ function Project() {
         Title={ProjectGallery[0].Title}
         Website={ProjectGallery[0].Website}
         GitHubRepo={ProjectGallery[0].GitHubRepo}
-        Pic={ProjectGallery[0].Pic}
+        Pic={bootstrapPortfolio}
       />
       <Cards
         Title={ProjectGallery[1].Title}
