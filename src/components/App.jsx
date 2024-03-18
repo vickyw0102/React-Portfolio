@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Contact from './pages/Contact.jsx';
 import Home from './pages/Home.jsx';
 import Header from './pages/Header.jsx';
@@ -14,16 +14,17 @@ function App() {
   return (
     <>
       
-      <Router>
+      <HashRouter>
        <Header/>
+
       <Routes>
         <Route path="/" element={<Home />} />
         
-        <Route path="Project" element={<Project />} />
-        <Route path="Contact" element={<Contact />} />
+        <Route path="/Project" element={<Project />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
-      
-    </Router>
+    </HashRouter>  
+    {/* </Router> */}
     
   </>
   )
