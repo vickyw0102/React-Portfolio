@@ -1,7 +1,9 @@
 # React-Portfolio
-## :clapper: ScreenTracker Overview
-Track what's on your screen - movies, series and your watching library.
-![Website Preview] https://vickyw0102.github.io/React-Portfolio/ 
+## Description
+- develop the initial scaffolding for your first portfolio site as well as create and/or update other materials so that you can showcase your skills to potential employers.
+![Website Preview] 
+https://vickyw0102.github.io/React-Portfolio/
+
 ## Table of Contents
 - [Website Preview](#website-preview)
 - [Features](#features)
@@ -14,19 +16,16 @@ Track what's on your screen - movies, series and your watching library.
 
 Here's a look at the ScreenTracker web application:
 Home page:
-![alt text](image.png)
+<img src="../../Repo homeworks/React-Portfolio/starter/reactpractice/dist/images/image.png">
 - with contact info, LinkedIn and Github link
 
 Project page:
-![alt text](image-1.png)
+<img src="../../Repo homeworks/React-Portfolio/starter/reactpractice/dist/images/image-1.png">
 - including cards with project lists with website , REPO links
 
-Project Gallery:
-![alt text](image-2.png)
--click the screenshot link to redirect to the project's screenshot
 
 Contact page:
-![alt text](image-3.png)
+<img src="../../Repo homeworks/React-Portfolio/starter/reactpractice/dist/images/image-3.png">
 - with contact form and contact info
 
 
@@ -42,7 +41,7 @@ Contact page:
 
 
 ## Project Requirements
-To ensure a dynamic and responsive user experience, ScreenTracker incorporates:
+To ensure a dynamic and responsive user experience with below requirements:
 - Bootstrap for responsive design and components.
 - Props and get data from json
 - Route to different page
