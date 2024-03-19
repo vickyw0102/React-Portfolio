@@ -3,7 +3,13 @@ import '../stylesheet/Project.css';
 import Wrapper from "./Wrapper";
 import Cards from "./Cards"
 import ProjectGallery from "../data/ProjectGallery.json"
-import bootstrapPortfolio from "../../../public/images/Projects/Bootstrap-Portfolio_1.jpg";
+import bootstrapPortfolio from "../../images/Projects/bootstrap-Portfolio_1.jpg";
+import PasswordGenerator from "../../images/Projects/Password-Generator_1.jpg";
+import CodeQuiz from "../../images/Projects/CodeQuiz_1.jpg";
+import WorkDayScheduler from "../../images/Projects/WorkDayScheduler_1.jpg";
+import weatherDashboard from "../../images/Projects/weather-Dashboard_1.jpg";
+import ScreenTracker from "../../images/Projects/ScreenTracker_1.jpg";
+
 
 
 function Project() {
@@ -37,34 +43,34 @@ function Project() {
         Title={ProjectGallery[1].Title}
         Website={ProjectGallery[1].Website}
         GitHubRepo={ProjectGallery[1].GitHubRepo}
-        Pic={ProjectGallery[1].Pic}
+        Pic={PasswordGenerator}
       />
       <Cards
         Title={ProjectGallery[2].Title}
         Website={ProjectGallery[2].Website}
         GitHubRepo={ProjectGallery[2].GitHubRepo}
-        Pic={ProjectGallery[2].Pic}
+        Pic={CodeQuiz}
       />
 
       <Cards
         Title={ProjectGallery[3].Title}
         Website={ProjectGallery[3].Website}
         GitHubRepo={ProjectGallery[3].GitHubRepo}
-        Pic={ProjectGallery[3].Pic}
+        Pic={WorkDayScheduler}
       />
 
       <Cards
         Title={ProjectGallery[4].Title}
         Website={ProjectGallery[4].Website}
         GitHubRepo={ProjectGallery[4].GitHubRepo}
-        Pic={ProjectGallery[4].Pic}
+        Pic={weatherDashboard}
       />
 
       <Cards
         Title={ProjectGallery[5].Title}
         Website={ProjectGallery[5].Website}
         GitHubRepo={ProjectGallery[5].GitHubRepo}
-        Pic={ProjectGallery[5].Pic}
+        Pic={ScreenTracker}
       />
 
 

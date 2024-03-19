@@ -1,7 +1,7 @@
 import React from 'react';
 import '../stylesheet/About.css';
 import Cards from "./Cards"
-import vickypic from '../../../public/images/Vickypic2.jpeg';
+import vickypic from '../../images/Vickypic2.jpeg';
 
 
 
